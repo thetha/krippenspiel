@@ -25,7 +25,7 @@ W6 WERTARBEIT Näh- und Stickgarn
 
 [W6 WERTARBEIT Spezial-Stickschere](https://www.w6-wertarbeit.de/zubehoer/naehscheren/w6-naehmaschinen-spezial-stickschere)
  
-Stickdatei: [krippenspiel.dst]()
+Stickdatei: [krippenspiel.dst](https://github.com/thetha/krippenspiel/blob/main/Krippenspiel.DST)
 
  
 ## Die Anleitung Schritt für Schritt 
