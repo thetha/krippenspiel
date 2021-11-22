@@ -4,6 +4,8 @@ Klicken Sie auf Code, dann Download als ZIP
 ![image](https://user-images.githubusercontent.com/13396762/142183385-92a034af-2600-493f-a99c-d8fec64015b8.png)
 
 # Weihnachtsschmuck 
+![image](https://user-images.githubusercontent.com/13396762/142885116-02cc381e-3caa-49de-8d79-c2899f0c09bc.png)
+
 
 ## Das benötigte Material
 
